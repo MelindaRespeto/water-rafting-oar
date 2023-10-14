@@ -47,5 +47,8 @@ nav a:hover {
     background-color: white;
 }
 .msg p{ 
-    background-color: color;
+    background-color: whitesmoke;
+}
+footer a{
+    background-color: whitesmoke;
 }
