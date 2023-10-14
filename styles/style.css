@@ -59,7 +59,7 @@ header{
 
 }
 .rivers-card, .camping-card, .rapids-card{
-    margin: 200px;
+    margin: 200px 0;
 }
 
 .book:hover, .join:hover{ 
