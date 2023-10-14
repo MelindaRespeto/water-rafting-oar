@@ -55,3 +55,6 @@ footer a{
 footer a:hover{
   background-color: white;  
 }
+.icon {
+    width: 80px;
+}
