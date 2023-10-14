@@ -2,9 +2,12 @@
 nav a {
     text-decoration: none;
     text-align: center;
-    background-color: black;
+    background-color: tropical rgb(194, 136, 235);
     padding: 35px;
     
+}
+#logo_logolink{
+    padding-top: 5px;
 }
 #hero-msg h1, {
     text-align: center;
@@ -47,6 +50,7 @@ header{
 .book, .join {
     background-color: whitesmoke;
     font-size: 18px;
+    padding: 15px 30px;
 
 }
 
