@@ -22,5 +22,8 @@ body{
 }
 header{
     background-color: paleturquoise;
-
 }
+nav a:hover{
+    background-color: black;
+}
+
