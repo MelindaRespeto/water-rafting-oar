@@ -27,8 +27,10 @@ body{
 header{
     background-color: paleturquoise;
 }
-nav a:hover{
+nav a:hover {
     background-color: black;
+    color: #d9c2a3;
+}    
 
 }
 .home-title{
