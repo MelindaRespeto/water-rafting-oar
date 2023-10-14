@@ -34,7 +34,7 @@ header{
 .home-title{
     background-color: whitesmoke;
     font-size: 2em;
-    
+
 }
 .book, .join {
     background-color: whitesmoke;
@@ -44,6 +44,10 @@ header{
 
 .book:hover, .join:hover{ 
     background-color: white;
+}
+.msg{
+    background-color: whitesmoke;
+    line-height: 1.5em;
 }
 .msg h2{
     background-color: white;
