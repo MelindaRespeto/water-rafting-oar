@@ -45,6 +45,7 @@ header{
 }
 .msg p{ 
     background-color: whitesmoke;
+    text-decoration: underline;
 }
 footer a{
     background-color: whitesmoke;
