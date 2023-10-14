@@ -33,10 +33,12 @@ header{
   
 .home-title{
     background-color: whitesmoke;
+    font-size: 2em;
 
 }
 .book, .join {
-    background-color: black;
+    background-color: whitesmoke;
+
 }
 
 .book:hover, .join:hover{ 
