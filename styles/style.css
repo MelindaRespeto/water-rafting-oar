@@ -46,6 +46,7 @@ header{
     background-color: white;
 }
 .msg{
+    text-align: center;
     background-color: whitesmoke;
     line-height: 1.5em;
 }
