@@ -25,7 +25,10 @@ main section{
     height: 725px;
 }
 body{
-    background-color: aquamarine
+    background-color: aquamarine;
+    font-size: 22px;
+    margin:0;
+    padding: 0;
 }
 header{
     background-color: paleturquoise;
