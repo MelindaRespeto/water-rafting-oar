@@ -61,6 +61,7 @@ header{
     text-align: center;
     background-color: whitesmoke;
     line-height: 1.5em;
+    padding: 35px;
 }
 .msg h2{
     background-color: white;
@@ -69,6 +70,10 @@ header{
     background-color: whitesmoke;
     text-decoration: underline;
     font-size: .8em;
+    padding-bottom: 15px;
+}
+footer{
+    padding: 25px 50px;
 }
 footer a{
     background-color: whitesmoke;
@@ -78,7 +83,10 @@ footer a:hover{
   
 }
 .icon {
+    text-align: center;
     width: 80px;
+    padding-top: 10px;
+
 }
 footer p {
     font-size: 1.2em;
