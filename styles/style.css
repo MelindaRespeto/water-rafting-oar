@@ -10,3 +10,9 @@ nav a {
 main section{
     text-align: center;
 }
+#background {
+    height: 725px;
+}
+body{
+    background-color: aquamarine
+}
