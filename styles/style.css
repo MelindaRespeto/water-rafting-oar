@@ -75,6 +75,9 @@ header{
 footer{
     padding: 25px 50px;
 }
+footer .social img{
+    padding-top: 15px;
+}
 footer a{
     background-color: whitesmoke;
 }
