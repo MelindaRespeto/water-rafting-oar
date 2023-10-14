@@ -34,10 +34,11 @@ header{
 .home-title{
     background-color: whitesmoke;
     font-size: 2em;
-
+    
 }
 .book, .join {
     background-color: whitesmoke;
+    font-size: 18px;
 
 }
 
@@ -50,6 +51,7 @@ header{
 .msg p{ 
     background-color: whitesmoke;
     text-decoration: underline;
+    font-size: .8em;
 }
 footer a{
     background-color: whitesmoke;
