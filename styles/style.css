@@ -50,8 +50,12 @@ footer a{
     background-color: whitesmoke;
 }
 footer a:hover{
-  background-color: white;  
+  background-color: white; 
+  
 }
 .icon {
     width: 80px;
+}
+footer p {
+    font-size: 1.2em;
 }
