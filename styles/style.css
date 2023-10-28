@@ -3,6 +3,10 @@ header{
     display: grid;
     grid-template-columns: 150px auto;
 }
+nav {
+    display: flex;
+    justify-content: space-around;
+}
 
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
 nav a {
