@@ -118,7 +118,7 @@ main section img{
 }
 main  {
     display: grid;
-    grid-template-columns: 2fr 2fr 2fr 2fr 2fr
+    grid-template-columns: 10fr 
 }
 .rivers-card {
     grid-column: 2/4;
