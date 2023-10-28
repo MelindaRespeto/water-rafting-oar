@@ -39,6 +39,12 @@ nav a {
         grid-column: 2/3;
         grid-row: 1/2;
         margin-top: 100px;
+        
+    }
+      .card-img, .mountains {
+        width: 100%;
+        
+        
     }
 #hero-msg h4 {
     color: black;
