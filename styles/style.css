@@ -208,7 +208,7 @@ nav {
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
 nav a {
     text-decoration: none;
-    text-align: center;
+    text-align: left;
     background-color: blue rgb(136, 235, 179);
     padding: 35px;    
 }
