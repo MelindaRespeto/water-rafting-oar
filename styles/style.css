@@ -215,6 +215,7 @@ nav a {
 #riv {
     display: grid;
     grid-template-columns: 1fr 3fr 1fr;
+    margin-top: -100px; 
 }
 #riv-box {
     grid-column: 1/4;
@@ -222,11 +223,6 @@ nav a {
     z-index: -1;
 }
 
-    #riv{
-        display: grid;
-        grid-template-columns: 1fr 3fr 1fr;
-        margin-top: -100px; 
-    }   
     #riv-msg {
         grid-column: 2/3;
         grid-row: 1/2;
@@ -237,7 +233,7 @@ nav a {
       .card-img, .mountains, .rivers-card, .camping-card{
         width: 100%; 
     }
-      
+    
 #riv-msg h4 {
     color: white;
 }
@@ -249,14 +245,16 @@ nav a {
     text-align: center;  
     
 }
-h2 {
+h2, .newspaper{
     margin: 0;
+    column-span: all;
+    column-count: 5;
    
 }
-#hero-msg h2 {
+#riv-msg h2 {
     text-align: center;}
 
-#hero-msg h4 {
+#riv-msg h4 {
 text-align: center;
  }
 
